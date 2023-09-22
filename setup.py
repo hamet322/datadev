@@ -5,6 +5,6 @@ setup(
     packages=find_packages(),
     version='0.1.0',
     description='DsProject',
-    author='hamet32',
+    author='hamet322',
     license='MIT',
 )
