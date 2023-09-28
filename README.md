@@ -1,4 +1,5 @@
 # datadev
+Web version: http://hamet322.pythonanywhere.com/
 # Sales Prediction
 - The following notebook does a simple prediction using LinearRegression.
 - This data expresses sales according to the type of advertisement and the size of the cost.
